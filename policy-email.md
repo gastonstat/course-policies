@@ -41,7 +41,7 @@ me a professional email. E-mail communication should be courteous and
 respectful in manner and tone. Please do not send e-mails that are curt or 
 demanding.
 
-Here's a short exmaple of an unprofessional email. Let's assume you miss an 
+Here's a short exmaple of an unprofessional email. Let's assume you missed an 
 exam, for whatever reason. Do not write and say _"I missed an exam. When can I make it up?"_
 Instead, explain why you have extenuating circumstances, and ask the teaching 
 staff if they will allow you to make up the exam. Most likely you won't be able
