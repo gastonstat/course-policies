@@ -1,5 +1,7 @@
 # Lab Policy
 
+The following list of policies is orientative. Please keep in mind that the specific policies of a given semester are shared in the designated Learning Management System (e.g. bCourses, Canvas).
+
 - Weekly labs are an essential part of the course and we will introduce concepts not necessarily covered in lecture.
 
 - You must attend the lab section you are officially enrolled in.
