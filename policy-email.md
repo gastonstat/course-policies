@@ -67,8 +67,7 @@ and a brief explanation of the nature of the email. For example:
 
 - Avoid emailing me to explain why you missed or will miss class. I don't need to know.
 
-- Do not email me to let me know you made a mistake in your submitted
-assignment.
+- Do not email me to let me know you made a mistake in your submitted assignment. Please refer to the [HW policies](https://github.com/gastonstat/course-policies/blob/main/policy-hw.md).
 
 - Do not email me to ask for extra credit. Here's why:
 <https://marktomforde.com/academic/undergraduates/NoExtraCredit.html>
