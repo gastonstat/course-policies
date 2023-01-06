@@ -8,7 +8,9 @@ The following list of policies is orientative. Please keep in mind that the spec
 
 - Lab assignments will be released every week, and their solutions will be posted on the LMS some days after lab discussion.
 
-- You will have to submit the files of your lab assignment to the LMS.
+- You will have to submit the files of your lab assignment to the LMS. 
+
+- If you submit the incorrect file(s) you will get no credit.
 
 - After the due date, late submissions will be accepted during a 24 hour period, and will receive a 20% deduction.
 
