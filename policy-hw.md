@@ -12,7 +12,7 @@ The following list of policies is orientative. Please keep in mind that the spec
 
 - Assignments will be accepted by electronic submission to the designated system only (e.g. bCourses, Gradescope).
 
-- Please note that if you submit the incorrect file you'll get no credit.
+- Please note that if you submit the incorrect file(s) you'll get no credit.
 
 - Unless stated otherwise, your lowest homework score will be dropped in the calculation of your overall homework score.
 
