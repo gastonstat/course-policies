@@ -10,7 +10,7 @@ The following list of policies is orientative. Please keep in mind that the spec
 
 - You will have to submit the files of your lab assignment to the LMS. 
 
-- Please note that if you submit the incorrect file you'll get no credit.
+- Please note that if you submit the incorrect file(s) you'll get no credit.
 
 - After the due date, late submissions will be accepted during a 24 hour period, and will receive a 20% deduction.
 
