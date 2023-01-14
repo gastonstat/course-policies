@@ -1,4 +1,6 @@
-# course-policies
+# Course Policies
+
+![Mrs. Mutner liked to go over a few of her rules on the first day of school](mrs-mutner-mcpherson.jpg)
 
 Some common policies that I use for most of my courses. The specific policies of a given semester are shared in the associated Learning Management System (LMS, e.g. bCourses, Canvas).
 
